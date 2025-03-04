@@ -1,6 +1,6 @@
 FROM ubuntu:latest
 
-# Set the working directory in the images
+# Set the working directory in the images.
 WORKDIR /app
 
 # Copy the files from the host file system to the image file system
